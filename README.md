@@ -1,3 +1,14 @@
-# My-portfolio
-Ceci est mon portfolio crée par moi meme en utilisant HTML, CSS, and Javascript.
-Vous trouverez une petite description de moi, mes expériences mes projets quelques compétences ainsi que mes pages web dans les réseaux sociaux.
+# My Portfolio Website
+
+This is my portfolio website. It contains information about me, my education, skill sets. It also contains information about all the projects which I have done and my contact information.
+
+## Website link of my portfolio website
+
+
+
+## Technologies used in this project
+
+- HTML
+- CSS
+- JavaScript
+
